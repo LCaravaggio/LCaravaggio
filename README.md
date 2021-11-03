@@ -1,5 +1,5 @@
 ### About Me ⚡
-Hi! My name is Leonardo A. Caravaggio. Im economist (UBA) working at [Economy Ministry](https://www.argentina.gob.ar/economia) (Argentina) and as a teacher at [FCE-UBA](https://www.economicas.uba.ar/) and [ITBA](https://www.itba.edu.ar/). 
+Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working at [Economy Ministry](https://www.argentina.gob.ar/economia) (Argentina) and as a teacher at [FCE-UBA](https://www.economicas.uba.ar/) and [ITBA](https://www.itba.edu.ar/). 
 More about me: [WebSite](https://lcaravaggio.github.io/) - [LinkedIn](https://www.linkedin.com/in/leocaravaggio/) - [Twitter](https://twitter.com/leocaravaggio) - [Academia](https://uba.academia.edu/LeonardoCaravaggio)
 
 ### Projects
