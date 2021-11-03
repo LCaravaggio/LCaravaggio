@@ -13,7 +13,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist (UBA) working at Economy Min
 * [Predictive Analysis Class Material](https://github.com/LCaravaggio/AnalisisPredictivo)
 * [Philosohpy Master´s Degree](https://github.com/LCaravaggio/SobreFelicidad) (Work In Progress 🔭)
 * [More scrapers](https://github.com/LCaravaggio/scrapers)
-* [Excel Complement](https://github.com/LCaravaggio/LAC)
+* [Excel Addin](https://github.com/LCaravaggio/LAC)
 * [Much more...](https://github.com/LCaravaggio?tab=repositories)
 
 
