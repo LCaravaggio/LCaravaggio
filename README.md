@@ -10,7 +10,7 @@ More about me: [WebSite](https://lcaravaggio.github.io/) - [LinkedIn](https://ww
 * [Philosohpy Master´s Degree](https://github.com/LCaravaggio/SobreFelicidad) (Work In Progress 🔭)
 * [More scrapers](https://github.com/LCaravaggio/scrapers)
 * [Excel Addin](https://github.com/LCaravaggio/LAC)
-* [Much more...](https://github.com/LCaravaggio?tab=repositories)
+* [More projects...](https://github.com/LCaravaggio?tab=repositories)
 
 
 <!--
