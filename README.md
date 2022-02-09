@@ -5,7 +5,7 @@ More about me: [WebSite](https://lcaravaggio.github.io/) - [LinkedIn](https://ww
 ### Projects
 * [Economy Master´s Degree Thesis](https://github.com/LCaravaggio/FelicidadyEconomia)
 * [News Paper](https://github.com/LCaravaggio/Noticias_y_Tensiones_Cambiarias)
-* [Web Page](https://github.com/LCaravaggio/Scrapers_Web) implementing an [API](https://github.com/LCaravaggio/Scrapers_API)
+* [Web Page](https://github.com/LCaravaggio/Scrapers_Web) implementing an [API](https://github.com/LCaravaggio/Scrapers_API) for scraping
 * [Predictive Analysis Class Material](https://github.com/LCaravaggio/AnalisisPredictivo)
 * [Political Philosophy Master´s Degree Thesis](https://github.com/LCaravaggio/SobreFelicidad) (Work In Progress 🔭)
 * [More scrapers](https://github.com/LCaravaggio/scrapers)
