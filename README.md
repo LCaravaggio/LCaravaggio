@@ -7,7 +7,7 @@ More about me:
 <a href="https://twitter.com/leocaravaggio"><img border="0" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" width="18" height="18">
 <a href="https://uba.academia.edu/LeonardoCaravaggio"><img border="0" title="Academia.edu" src="https://cdn-icons-png.flaticon.com/512/2111/2111304.png" width="18" height="18">
 
-### Projects
+### Public Projects
 * ["Happiness and Economy" paper](https://github.com/LCaravaggio/FelicidadyEconomia)
 * ["News and Exchange Rate Tensions" paper](https://github.com/LCaravaggio/Noticias_y_Tensiones_Cambiarias)
 * [Web Page](https://github.com/LCaravaggio/Scrapers_Web) implementing an [API](https://github.com/LCaravaggio/Scrapers_API) for scraping
