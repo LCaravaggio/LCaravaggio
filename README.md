@@ -8,8 +8,8 @@ More about me:
 <a href="https://uba.academia.edu/LeonardoCaravaggio"><img border="0" title="Academia.edu" src="https://cdn-icons-png.flaticon.com/512/2111/2111304.png" width="18" height="18">
 
 ### Projects
-* [Economy Master´s Degree Thesis](https://github.com/LCaravaggio/FelicidadyEconomia)
-* [News Paper](https://github.com/LCaravaggio/Noticias_y_Tensiones_Cambiarias)
+* ["Happiness and Economy" paper](https://github.com/LCaravaggio/FelicidadyEconomia)
+* ["News and Exchange Rate Tensions" paper](https://github.com/LCaravaggio/Noticias_y_Tensiones_Cambiarias)
 * [Web Page](https://github.com/LCaravaggio/Scrapers_Web) implementing an [API](https://github.com/LCaravaggio/Scrapers_API) for scraping
 * [Predictive Analysis Class Material](https://github.com/LCaravaggio/AnalisisPredictivo)
 * [Political Philosophy Master´s Degree Thesis](https://github.com/LCaravaggio/SobreFelicidad) (Work In Progress 🔭)
