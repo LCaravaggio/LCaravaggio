@@ -1,5 +1,5 @@
 ### About Me ⚡
-Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working at [Economy Ministry](https://www.argentina.gob.ar/economia) (Argentina) and as a teacher at [FCE-UBA](https://www.economicas.uba.ar/) and [ITBA](https://www.itba.edu.ar/). I have a degree and a master's degree in economics from the UBA, a diploma in Deep Learning from ITBA, and I am finishing a master's degree in political philosophy at [UnQui](http://www.unq.edu.ar/), and starting a doctorate in economics at the UBA<br />
+Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working at [Economy Ministry](https://www.argentina.gob.ar/economia) (Argentina) and as a professor at [FCE-UBA](https://www.economicas.uba.ar/) and [ITBA](https://www.itba.edu.ar/). I have a degree and a master's degree in economics from the UBA, a diploma in Deep Learning from ITBA, and I am finishing a master's degree in political philosophy at [UnQui](http://www.unq.edu.ar/), and starting a doctorate in economics at the UBA<br />
 <br />
 More about me: 
 <a href="https://lcaravaggio.github.io/"><img border="0" title="WebSite" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" width="18" height="18">
