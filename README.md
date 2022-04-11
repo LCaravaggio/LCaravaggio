@@ -12,7 +12,7 @@ More about me:
 * ["News and Exchange Rate Tensions" paper](https://github.com/LCaravaggio/Noticias_y_Tensiones_Cambiarias)
 * [Web Page](https://github.com/LCaravaggio/Scrapers_Web) implementing an [API](https://github.com/LCaravaggio/Scrapers_API) for scraping
 * [Predictive Analysis Class Material](https://github.com/LCaravaggio/AnalisisPredictivo)
-* [Political Philosophy Master´s Degree Thesis](https://github.com/LCaravaggio/SobreFelicidad) (Work In Progress 🔭)
+* [Economic Analysis Class Material](https://github.com/LCaravaggio/AnalisisEconomico) (Work In Progress 🔭)
 * [More scrapers](https://github.com/LCaravaggio/scrapers)
 * [Excel Addin](https://github.com/LCaravaggio/LAC)
 * [More projects...](https://github.com/LCaravaggio?tab=repositories)
