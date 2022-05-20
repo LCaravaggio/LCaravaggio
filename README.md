@@ -13,6 +13,7 @@ More about me:
 * [Web Page](https://github.com/LCaravaggio/Scrapers_Web) implementing an [API](https://github.com/LCaravaggio/Scrapers_API) for scraping
 * [Predictive Analysis Class Material](https://github.com/LCaravaggio/AnalisisPredictivo)
 * [Economic Analysis Class Material](https://github.com/LCaravaggio/AnalisisEconomico) (Work In Progress 🔭)
+* [Advanced Microeconomics](https://github.com/LCaravaggio/Microeconomia2)
 * [More scrapers](https://github.com/LCaravaggio/scrapers)
 * [Excel Addin](https://github.com/LCaravaggio/LAC)
 * [More projects...](https://github.com/LCaravaggio?tab=repositories)
