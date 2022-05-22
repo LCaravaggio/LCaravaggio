@@ -16,17 +16,6 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 
 <br />
 
-### Public Projects:
-* ["Happiness and Economy" paper](https://github.com/LCaravaggio/FelicidadyEconomia)
-* ["News and Exchange Rate Tensions" paper](https://github.com/LCaravaggio/Noticias_y_Tensiones_Cambiarias)
-* [Web Page](https://github.com/LCaravaggio/Scrapers_Web) implementing an [API](https://github.com/LCaravaggio/Scrapers_API) for scraping
-* [Predictive Analysis Class Material](https://github.com/LCaravaggio/AnalisisPredictivo)
-* [Economic Analysis Class Material](https://github.com/LCaravaggio/AnalisisEconomico) (Work In Progress 🔭)
-* [Advanced Microeconomics](https://github.com/LCaravaggio/Microeconomia2)
-* [More scrapers](https://github.com/LCaravaggio/scrapers)
-* [Excel Addin](https://github.com/LCaravaggio/LAC)
-* [More projects...](https://github.com/LCaravaggio?tab=repositories)
-
 
 <!--
 - 🔭 I’m currently working on ...
