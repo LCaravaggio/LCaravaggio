@@ -18,7 +18,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 [googlescholar]: https://scholar.google.com.ar/citations?user=2rituZIAAAAJ&hl=es
 [academia]: https://uba.academia.edu/LeonardoCaravaggio
 [goodreads]: https://www.goodreads.com/user/show/23829766-leonardo
-[researchgate]: https://www.researchgate.net/profile/Leonardo-Carvaggio
+[researchgate]: https://www.researchgate.net/profile/Leonardo-Caravaggio
 [ideasrepec]: https://ideas.repec.org/f/pca1267.html
 
 <br />
