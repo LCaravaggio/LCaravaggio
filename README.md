@@ -7,6 +7,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 [<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Google Scholar" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/googlescholar.svg" />][googlescholar]
 [<img align="left" alt="Academia"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/academia.svg" />][academia]
+[<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/researchgate.svg" />][researchgate]
 [<img align="left" alt="Goodreads"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/goodreads.svg" />][goodreads]
 
 [website]: https://lcaravaggio.github.io/
@@ -15,5 +16,6 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 [googlescholar]: https://scholar.google.com.ar/citations?user=2rituZIAAAAJ&hl=es
 [academia]: https://uba.academia.edu/LeonardoCaravaggio
 [goodreads]: https://www.goodreads.com/user/show/23829766-leonardo
+[researchgate]: https://www.researchgate.net/profile/Leonardo-Carvaggio
 
 <br />
