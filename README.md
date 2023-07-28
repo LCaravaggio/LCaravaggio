@@ -9,7 +9,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 [<img align="left" alt="Academia"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/academia.svg" />][academia]
 [<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/researchgate.svg" />][researchgate]
 [<img align="left" alt="IDEAS Repec"    width="22px" src="https://static-00.iconduck.com/assets.00/ideas-repec-icon-384x512-glhxd2a7.png" />][ideasrepec]
-[<img align="left" alt="Goodreads"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/goodreads.svg" />][goodreads]
+[<img align="left" alt="Goodreads"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/goodreads.svg" />][goodreads][<img align="left" alt="Goodreads"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/letterboxd.svg" />][letterboxd]
 
 
 [website]: https://lcaravaggio.github.io/
@@ -20,5 +20,6 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 [goodreads]: https://www.goodreads.com/user/show/23829766-leonardo
 [researchgate]: https://www.researchgate.net/profile/Leonardo-Caravaggio
 [ideasrepec]: https://ideas.repec.org/f/pca1267.html
+[letterboxd]: https://letterboxd.com/lcaravaggio/
 
 <br />
