@@ -12,7 +12,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 [<img align="left" alt="Goodreads"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/goodreads.svg" />][goodreads]
 [<img align="left" alt="Letterboxd"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/letterboxd.svg" />][letterboxd]
 [<img align="left" alt="spotify"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/spotify.svg" />][spotify]
-
+[<img align="left" alt="lichess"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/lichess.svg" />][lichess]
 
 [website]: https://lcaravaggio.github.io/
 [twitter]: https://twitter.com/leocaravaggio
@@ -24,5 +24,6 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 [ideasrepec]: https://ideas.repec.org/f/pca1267.html
 [letterboxd]: https://letterboxd.com/lcaravaggio/
 [spotify]: https://open.spotify.com/user/leocaravaggio
+[lichess]: https://lichess.org/@/Lekas
 
 <br />
