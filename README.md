@@ -3,7 +3,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 
 ### More about me:  
 [<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter"        width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/twitter.svg" />][twitter]
+[<img align="left" alt="X"        width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.12.0/icons/x.svg" />][twitter]
 [<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Google Scholar" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/googlescholar.svg" />][googlescholar]
 [<img align="left" alt="Academia"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/academia.svg" />][academia]
@@ -15,7 +15,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist and data scientist working a
 [<img align="left" alt="lichess"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/lichess.svg" />][lichess]
 
 [website]: https://lcaravaggio.github.io/
-[twitter]: https://twitter.com/leocaravaggio
+[twitter]: https://x.com/leocaravaggio
 [linkedin]: https://www.linkedin.com/in/leocaravaggio
 [googlescholar]: https://scholar.google.com.ar/citations?user=2rituZIAAAAJ&hl=es
 [academia]: https://uba.academia.edu/LeonardoCaravaggio
