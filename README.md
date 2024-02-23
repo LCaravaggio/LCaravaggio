@@ -8,6 +8,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scient
 [<img align="left" alt="Google Scholar" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/googlescholar.svg" />][googlescholar]
 [<img align="left" alt="Academia"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/academia.svg" />][academia]
 [<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/researchgate.svg" />][researchgate]
+[<img align="left" alt="Orcid"   width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/orcid.svg" />][orcid]
 [<img align="left" alt="IDEAS Repec"    width="22px" src="https://static-00.iconduck.com/assets.00/ideas-repec-icon-384x512-glhxd2a7.png" />][ideasrepec]
 [<img align="left" alt="Goodreads"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/goodreads.svg" />][goodreads]
 [<img align="left" alt="Letterboxd"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/letterboxd.svg" />][letterboxd]
@@ -19,6 +20,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scient
 [linkedin]: https://www.linkedin.com/in/leocaravaggio
 [googlescholar]: https://scholar.google.com.ar/citations?user=2rituZIAAAAJ&hl=es
 [academia]: https://uba.academia.edu/LeonardoCaravaggio
+[orcid]: https://orcid.org/my-orcid?orcid=0000-0003-2758-116X
 [goodreads]: https://www.goodreads.com/user/show/23829766-leonardo
 [researchgate]: https://www.researchgate.net/profile/Leonardo-Caravaggio
 [ideasrepec]: https://ideas.repec.org/f/pca1267.html
