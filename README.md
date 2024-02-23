@@ -20,7 +20,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scient
 [linkedin]: https://www.linkedin.com/in/leocaravaggio
 [googlescholar]: https://scholar.google.com.ar/citations?user=2rituZIAAAAJ&hl=es
 [academia]: https://uba.academia.edu/LeonardoCaravaggio
-[orcid]: https://orcid.org/my-orcid?orcid=0000-0003-2758-116X
+[orcid]: https://orcid.org/0000-0003-2758-116X
 [goodreads]: https://www.goodreads.com/user/show/23829766-leonardo
 [researchgate]: https://www.researchgate.net/profile/Leonardo-Caravaggio
 [ideasrepec]: https://ideas.repec.org/f/pca1267.html
