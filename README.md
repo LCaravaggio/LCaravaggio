@@ -10,10 +10,13 @@ Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scient
 [<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/researchgate.svg" />][researchgate]
 [<img align="left" alt="Orcid"   width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/orcid.svg" />][orcid]
 [<img align="left" alt="IDEAS Repec"    width="22px" src="https://static-00.iconduck.com/assets.00/ideas-repec-icon-384x512-glhxd2a7.png" />][ideasrepec]
+[<img align="left" alt="kaggle"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="Goodreads"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/goodreads.svg" />][goodreads]
 [<img align="left" alt="Letterboxd"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/letterboxd.svg" />][letterboxd]
 [<img align="left" alt="spotify"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/spotify.svg" />][spotify]
 [<img align="left" alt="lichess"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/lichess.svg" />][lichess]
+
+
 
 [website]: https://lcaravaggio.github.io/
 [twitter]: https://x.com/leocaravaggio
@@ -27,5 +30,6 @@ Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scient
 [letterboxd]: https://letterboxd.com/lcaravaggio/
 [spotify]: https://open.spotify.com/user/leocaravaggio
 [lichess]: https://lichess.org/@/Lekas
+[kaggle]:https://www.kaggle.com/leonardocaravaggio
 
 <br />
