@@ -2,20 +2,19 @@
 Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scientist working at [Economy Ministry](https://www.argentina.gob.ar/economia) (Argentina) and as a professor at [FCE-UBA](https://www.economicas.uba.ar/) and [ITBA](https://www.itba.edu.ar/). I am doctorate candidate in economics at the FCE-UBA. I have a degree and a master's degree in economics from the FCE-UBA, a master's degree in philosophy at [UnQui](http://www.unq.edu.ar/) and a diploma in Deep Learning from ITBA. <br />
 
 ### More about me:  
-[<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="X"        width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.12.0/icons/x.svg" />][twitter]
-[<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Google Scholar" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/googlescholar.svg" />][googlescholar]
-[<img align="left" alt="Academia"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/academia.svg" />][academia]
-[<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/researchgate.svg" />][researchgate]
-[<img align="left" alt="Orcid"   width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/orcid.svg" />][orcid]
-[<img align="left" alt="IDEAS Repec"    width="22px" src="https://static-00.iconduck.com/assets.00/ideas-repec-icon-384x512-glhxd2a7.png" />][ideasrepec]
-[<img align="left" alt="kaggle"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/kaggle.svg" />][kaggle]
-[<img media="(prefers-color-scheme: dark)" align="left" alt="Goodreads"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/goodreads.svg" />][goodreads]
-[<img media="(prefers-color-scheme: light)" align="left" alt="Goodreads"      width="25px" src="https://img.icons8.com/?size=80&id=gXdPmvbiFpxW&format=png" />][goodreads]
-[<img align="left" alt="Letterboxd"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/letterboxd.svg" />][letterboxd]
-[<img align="left" alt="spotify"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/spotify.svg" />][spotify]
-[<img align="left" alt="lichess"      width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/lichess.svg" />][lichess]
+[<img align="left" alt="Website"        width="30px" src="https://img.icons8.com/?size=80&id=i5AvNTkFop7s&format=png" />][website]
+[<img align="left" alt="X"        width="30px" src="https://img.icons8.com/?size=64&id=bG29Ckcdp6YP&format=png" />][twitter]
+[<img align="left" alt="LinkedIn"       width="30px" src="https://img.icons8.com/?size=64&id=118979&format=png" />][linkedin]
+[<img align="left" alt="Google Scholar" width="30px" src="https://img.icons8.com/?size=48&id=drPiDBy9kkJ3&format=png" />][googlescholar]
+[<img align="left" alt="Academia"       width="30px" src="https://img.icons8.com/?size=80&id=wtLhjRpd1QxA&format=png" />][academia]
+[<img align="left" alt="ResearchGate"   width="30px" src="https://img.icons8.com/?size=80&id=rJe4LeuAg1VI&format=png" />][researchgate]
+[<img align="left" alt="Orcid"   width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/512px-ORCID_iD.svg.png" />][orcid]
+[<img align="left" alt="IDEAS Repec"    width="30px" src="https://pbs.twimg.com/profile_images/689280262476140544/ny0YYb-M_400x400.png" />][ideasrepec]
+[<img align="left" alt="kaggle"      width="30px" src="https://img.icons8.com/?size=80&id=bMncK0wGFANA&format=png" />][kaggle]
+[<img align="left" alt="Goodreads"      width="30px" src="https://img.icons8.com/?size=80&id=OAalHFPavJqq&format=png" />][goodreads]
+[<img align="left" alt="Letterboxd"      width="30px" src="https://img.icons8.com/?size=80&id=kbIgPQdusYRB&format=png" />][letterboxd]
+[<img align="left" alt="spotify"      width="30px" src="https://img.icons8.com/?size=80&id=116726&format=png" />][spotify]
+[<img align="left" alt="lichess"      width="27px" src="https://avatars.githubusercontent.com/u/16491637?v=4" />][lichess]
 
 
 
