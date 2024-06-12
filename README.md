@@ -1,5 +1,5 @@
 ### About Me: ⚡
-Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scientist working at [Economy Ministry](https://www.argentina.gob.ar/economia) (Argentina) and as a professor at [FCE-UBA](https://www.economicas.uba.ar/) and [ITBA](https://www.itba.edu.ar/). I am doctorate candidate in economics at the FCE-UBA. I have a degree and a master's degree in economics from the FCE-UBA, a master's degree in philosophy at [UnQui](http://www.unq.edu.ar/) and a diploma in Deep Learning from ITBA. <br />
+Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scientist working at [Economy Ministry](https://www.argentina.gob.ar/economia) (Argentina) and as a professor at [FCE-UBA](https://www.economicas.uba.ar/) and [ITBA](https://www.itba.edu.ar/). I am doctorate candidate in economics at the FCE-UBA. I have a degree and a master's degree in economics from the FCE-UBA ([see thesis](https://github.com/LCaravaggio/FelicidadyEconomia)), a master's degree in philosophy at [UnQui](http://www.unq.edu.ar/) ([see thesis](https://github.com/LCaravaggio/SobreFelicidad)) and a diploma in Deep Learning from ITBA. <br />
 
 ### More about me:  
 [<img align="left" alt="Website"        width="30px" src="https://img.icons8.com/?size=80&id=i5AvNTkFop7s&format=png" />][website]
