@@ -15,6 +15,8 @@ Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scient
 [<img align="left" alt="Letterboxd"      width="30px" src="https://img.icons8.com/?size=80&id=kbIgPQdusYRB&format=png" />][letterboxd]
 [<img align="left" alt="spotify"      width="30px" src="https://img.icons8.com/?size=64&id=W9M6LCrTvolF&format=png" />][spotify]
 [<img align="left" alt="lichess"      width="27px" src="https://avatars.githubusercontent.com/u/16491637?v=4" />][lichess]
+[<img align="left" alt="rym"      width="27px" src="https://miro.medium.com/v2/1*VMw8Wwa_rnHkNIOOcBkXww.png" />][lichess]
+
 
 
 
@@ -24,6 +26,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scient
 [googlescholar]: https://scholar.google.com.ar/citations?user=2rituZIAAAAJ&hl=es
 [academia]: https://uba.academia.edu/LeonardoCaravaggio
 [orcid]: https://orcid.org/0000-0003-2758-116X
+[rym]: https://rateyourmusic.com/~LCaravaggio
 [goodreads]: https://www.goodreads.com/user/show/23829766-leonardo
 [researchgate]: https://www.researchgate.net/profile/Leonardo-Caravaggio
 [ideasrepec]: https://ideas.repec.org/f/pca1267.html
