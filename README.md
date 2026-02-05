@@ -5,6 +5,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scient
 [<img align="left" alt="Website"        width="30px" src="https://img.icons8.com/?size=80&id=i5AvNTkFop7s&format=png" />][website]
 [<img align="left" alt="X"        width="30px" src="https://img.icons8.com/?size=64&id=bG29Ckcdp6YP&format=png" />][twitter]
 [<img align="left" alt="LinkedIn"       width="30px" src="https://img.icons8.com/?size=64&id=118979&format=png" />][linkedin]
+[<img align="left" alt="Scopus" width="30px" src="https://img.icons8.com/?size=48&id=P1immY1EccPf&format=png" />][scopus]
 [<img align="left" alt="Google Scholar" width="30px" src="https://img.icons8.com/?size=48&id=drPiDBy9kkJ3&format=png" />][googlescholar]
 [<img align="left" alt="Academia"       width="30px" src="https://img.icons8.com/?size=80&id=wtLhjRpd1QxA&format=png" />][academia]
 [<img align="left" alt="ResearchGate"   width="30px" src="https://img.icons8.com/?size=80&id=rJe4LeuAg1VI&format=png" />][researchgate]
@@ -24,6 +25,7 @@ Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scient
 [website]: https://lcaravaggio.github.io/
 [twitter]: https://x.com/leocaravaggio
 [linkedin]: https://www.linkedin.com/in/leocaravaggio
+[scopus]: https://www.scopus.com/authid/detail.uri?authorId=60207584000
 [googlescholar]: https://scholar.google.com.ar/citations?user=2rituZIAAAAJ&hl=es
 [academia]: https://uba.academia.edu/LeonardoCaravaggio
 [orcid]: https://orcid.org/0000-0003-2758-116X
