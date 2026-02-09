@@ -1,5 +1,17 @@
-### About Me: ⚡
-Hi! My name is Leonardo A. Caravaggio. Im economist, philosopher and data scientist working at [Economy Ministry](https://www.argentina.gob.ar/economia) (Argentina) and as a professor at [FCE-UBA](https://www.economicas.uba.ar/) and [ITBA](https://www.itba.edu.ar/). I am doctorate candidate in economics at the FCE-UBA. I have a degree and a master's degree in economics from the FCE-UBA ([see thesis](https://github.com/LCaravaggio/FelicidadyEconomia)), a master's degree in philosophy at [UnQui](http://www.unq.edu.ar/) ([see thesis](https://github.com/LCaravaggio/SobreFelicidad)) and a diploma in Deep Learning from ITBA ([see final work](https://github.com/LCaravaggio/DeepLearning_ITBA/blob/main/CV/TPFinal/CNN_Style_Transfer.ipynb)). <br />
+### About Me ⚡
+
+Hi! I'm Leonardo A. Caravaggio. I work at the intersection of economics, philosophy and data science, with a focus on understanding how collective decisions are made in the era of data and artificial intelligence.
+
+I'm currently an economist at the Argentine Ministry of Economy, where I develop macroeconomic models, automation tools and data-driven analysis for public policy. I also teach quantitative methods, data science and public policy at Universidad de Buenos Aires ([FCE-UBA](https://economicas.uba.ar/)) and [ITBA](https://www.itba.edu.ar/).
+
+My academic background includes:
+- PhD candidate in Economics at FCE-UBA ([Paper #1](https://github.com/LCaravaggio/felicidad_y_redes)).
+- MSc and BSc in Economics at FCE-UBA ([thesis](https://github.com/LCaravaggio/FelicidadyEconomia)).
+- MSc in Philosophy at Universidad Nacional de Quilmes ([thesis](https://github.com/LCaravaggio/SobreFelicidad)).
+- Diploma in Deep Learning at ITBA ([final project](https://github.com/LCaravaggio/DeepLearning_ITBA/blob/main/CV/TPFinal/CNN_Style_Transfer.ipynb)).
+
+My main interests are wellbeing and happiness, behavioral science, public policy and artificial intelligence. I’m especially interested in how data and computational methods can improve — or distort — the way we understand social phenomena and design institutions.
+
 
 ### More about me:  
 [<img align="left" alt="Website"        width="30px" src="https://img.icons8.com/?size=80&id=i5AvNTkFop7s&format=png" />][website]
