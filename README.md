@@ -6,8 +6,8 @@ I'm currently an economist at the Argentine Ministry of Economy, where I develop
 
 My academic background includes:
 - PhD candidate in Economics at FCE-UBA ([Paper #1](https://github.com/LCaravaggio/felicidad_y_redes)).
-- MSc and BSc in Economics at FCE-UBA ([thesis](https://github.com/LCaravaggio/FelicidadyEconomia)).
-- MSc in Philosophy at Universidad Nacional de Quilmes ([thesis](https://github.com/LCaravaggio/SobreFelicidad)).
+- MSc and BSc in Economics at FCE-UBA ([master's thesis](https://github.com/LCaravaggio/FelicidadyEconomia) and [senior thesis](https://github.com/LCaravaggio/EselProyecto)).
+- MSc in Philosophy at Universidad Nacional de Quilmes ([master's thesis](https://github.com/LCaravaggio/SobreFelicidad)).
 - Diploma in Deep Learning at ITBA ([final project](https://github.com/LCaravaggio/DeepLearning_ITBA/blob/main/CV/TPFinal/CNN_Style_Transfer.ipynb)).
 
 My main interests are wellbeing and happiness, behavioral science, public policy and artificial intelligence. I’m especially interested in how data and computational methods can improve — or distort — the way we understand social phenomena and design institutions.
