@@ -18,7 +18,7 @@ My main interests are wellbeing and happiness, behavioral science, public policy
 [<img align="left" alt="X"        width="30px" src="https://img.icons8.com/?size=64&id=bG29Ckcdp6YP&format=png" />][twitter]
 [<img align="left" alt="LinkedIn"       width="30px" src="https://img.icons8.com/?size=64&id=118979&format=png" />][linkedin]
 [<img align="left" alt="Scopus" width="30px" src="https://img.icons8.com/?size=48&id=P1immY1EccPf&format=png" />][scopus]
-[<img align="left" alt="Orcid"   width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/512px-ORCID_iD.svg.png" />][orcid]
+[<img align="left" alt="Orcid"   width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Orcid_icon.png" />][orcid]
 [<img align="left" alt="Google Scholar" width="30px" src="https://img.icons8.com/?size=48&id=drPiDBy9kkJ3&format=png" />][googlescholar]
 [<img align="left" alt="Academia"       width="30px" src="https://img.icons8.com/?size=80&id=wtLhjRpd1QxA&format=png" />][academia]
 [<img align="left" alt="ResearchGate"   width="30px" src="https://img.icons8.com/?size=80&id=rJe4LeuAg1VI&format=png" />][researchgate]
