@@ -5,7 +5,7 @@ Hi! I'm Leonardo A. Caravaggio. I work at the intersection of economics, philoso
 I'm currently an economist at the Argentine Ministry of Economy, where I develop macroeconomic models, automation tools and data-driven analysis for public policy. I also teach quantitative methods, data science and public policy at [ITBA](https://www.itba.edu.ar/), [FCE-UBA](https://economicas.uba.ar/) and [UNSAM](https://www.unsam.edu.ar/).
 
 My academic background includes:
-- PhD candidate in Economics at FCE-UBA ([Paper #1](https://github.com/LCaravaggio/felicidad_y_redes), [Paper #2](https://github.com/LCaravaggio/FelicidadDesigualdad)).
+- PhD candidate in Economics at FCE-UBA ([Paper #1](https://github.com/LCaravaggio/felicidad_y_redes), [Paper #2](https://github.com/LCaravaggio/FelicidadDesigualdad), [Paper #3](https://github.com/LCaravaggio/Happiness_Polarization)).
 - MSc and BSc in Economics at FCE-UBA ([master's thesis](https://github.com/LCaravaggio/FelicidadyEconomia) and [senior thesis](https://github.com/LCaravaggio/EselProyecto)).
 - MSc in Philosophy at Universidad Nacional de Quilmes ([master's thesis](https://github.com/LCaravaggio/SobreFelicidad)).
 - Diploma in Deep Learning at ITBA ([final project](https://github.com/LCaravaggio/DeepLearning_ITBA/blob/main/CV/TPFinal/CNN_Style_Transfer.ipynb)).
