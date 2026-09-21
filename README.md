@@ -1,6 +1,6 @@
 ### About Me ⚡
 
-Hi! I'm Leonardo A. Caravaggio. I work at the intersection of economics, philosophy and data science, with a focus on understanding how collective decisions are made in the era of data and artificial intelligence.
+Hi! I'm Leonardo A. Caravaggio. I work at the intersection of economics, philosophy and data science, with a focus on understanding how collective decisions are made in the era of data and artificial intelligence. 
 
 I'm currently an economist at the Argentine Ministry of Economy, where I develop macroeconomic models, automation tools and data-driven analysis for public policy. I also teach quantitative methods, data science and public policy at [ITBA](https://www.itba.edu.ar/), [FCE-UBA](https://economicas.uba.ar/) and [UNSAM](https://www.unsam.edu.ar/).
 
